@@ -1,0 +1,8 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(149,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(206,29): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(228,29): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(231,17): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(237,21): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\270080379\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(248,17): warning C4129: 'S': unrecognized character escape sequence
+  ConsoleApplication18.vcxproj -> C:\Users\270080379\source\repos\ConsoleApplication18\Debug\ConsoleApplication18.exe
